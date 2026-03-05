@@ -1,0 +1,82 @@
+[
+    {
+        "id": "P001",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 45,
+        "price": 29.99,
+        "reorder_level": 10
+    },
+    {
+        "id": "P002",
+        "name": "USB-C Hub",
+        "category": "Electronics",
+        "quantity": 8,
+        "price": 49.99,
+        "reorder_level": 10
+    },
+    {
+        "id": "P003",
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "quantity": 22,
+        "price": 89.99,
+        "reorder_level": 5
+    },
+    {
+        "id": "P004",
+        "name": "A4 Paper Ream (500 sheets)",
+        "category": "Office Supplies",
+        "quantity": 3,
+        "price": 8.5,
+        "reorder_level": 20
+    },
+    {
+        "id": "P005",
+        "name": "Ballpoint Pens (Box of 12)",
+        "category": "Office Supplies",
+        "quantity": 55,
+        "price": 4.25,
+        "reorder_level": 15
+    },
+    {
+        "id": "P006",
+        "name": "Stapler",
+        "category": "Office Supplies",
+        "quantity": 12,
+        "price": 11.0,
+        "reorder_level": 5
+    },
+    {
+        "id": "P007",
+        "name": "Notebook (A5, 200 pages)",
+        "category": "Stationery",
+        "quantity": 0,
+        "price": 6.75,
+        "reorder_level": 25
+    },
+    {
+        "id": "P008",
+        "name": "Whiteboard Markers (4-pack)",
+        "category": "Stationery",
+        "quantity": 18,
+        "price": 7.99,
+        "reorder_level": 10
+    },
+    {
+        "id": "P009",
+        "name": "Ergonomic Chair",
+        "category": "Furniture",
+        "quantity": 6,
+        "price": 249.0,
+        "reorder_level": 3
+    },
+    {
+        "id": "P010",
+        "name": "Standing Desk",
+        "category": "Furniture",
+        "quantity": 2,
+        "price": 399.99,
+        "reorder_level": 2
+    }
+]
