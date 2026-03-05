@@ -31,7 +31,7 @@ This project implements a stock management system with modular architecture for 
 ## Usage
 
 Usage:
-python3 main.py
+`python3 main.py`
 
 Modules:
 data_manager - JSON file I/O and ID generation
